@@ -14,30 +14,10 @@ export class AboutView extends BaseView {
         this._pageTitle = 'Описание игры';
         this._authors = [
             {
-                name: 'Ксения Казанцева',
-                position: 'Dear Mentor',
+                name: 'Салима Адамбековна',
+                position: 'PHD',
                 avatarPath: '/assets/img/mentor.jpg'
             },
-            {
-                name: 'Максим Пирмамедов',
-                position: 'Backend',
-                avatarPath: '/assets/img/maksP.jpg'
-            },
-            {
-                name: 'Алексей Ларютин',
-                position: 'Backend',
-                avatarPath: '/assets/img/lesha.jpg'
-            },
-            {
-                name: 'Максим Уймин',
-                position: 'Full-stack',
-                avatarPath: '/assets/img/maksU.jpg'
-            },
-            {
-                name: 'Джахонгир Тулфоров',
-                position: 'Frontend',
-                avatarPath: '/assets/img/jahongir.jpg'
-            }
         ];
         this._screens = [];
         this._render();
