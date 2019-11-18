@@ -82,7 +82,7 @@ app.get('/*', (req, res) => {
     res.sendFile(path.resolve(__dirname, '../public/index.html'));
 });
 
-const port = process.env.PORT || 8000;
+const port = process.env.PORT || 8080;
 
 app.listen(port, function () {
     console.log(`Server listening port ${port}`); // eslint-disable-line
