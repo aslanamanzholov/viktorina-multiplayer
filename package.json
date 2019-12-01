@@ -1,7 +1,7 @@
 {
   "name": "2019_1_sleeplessnights",
   "version": "1.0.0",
-  "description": "Educational project for Technopark 2019",
+  "description": "Educational project for Chemical PHD",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
@@ -9,16 +9,6 @@
     "start": "node server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/frontend-park-mail-ru/2019_1_SleeplessNights.git"
-  },
-  "author": "Jahonir Tulforov, Maksim Uymin, Maksim Pirmamedov, Aleksey Laryutin",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/frontend-park-mail-ru/2019_1_SleeplessNights/issues"
-  },
-  "homepage": "https://github.com/frontend-park-mail-ru/2019_1_SleeplessNights#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",

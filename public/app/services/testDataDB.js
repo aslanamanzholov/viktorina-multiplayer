@@ -10,44 +10,44 @@ export class TestDataDB {
     static get packs() {
         return [
             {
-                'name': 'История',
-                'iconPath': '/assets/img/packs/history.svg'
+                'name': 'Химия',
+                'iconPath': '/assets/img/packs/acid.svg'
             },
             {
-                'name': 'Математика',
-                'iconPath': '/assets/img/packs/math.svg'
+                'name': 'Химия 2',
+                'iconPath': '/assets/img/packs/brain.svg'
             },
             {
-                'name': 'География',
-                'iconPath': '/assets/img/packs/geography.svg'
+                'name': 'Химия 3',
+                'iconPath': '/assets/img/packs/carbon-dioxide.svg'
             },
             {
-                'name': 'Спорт',
-                'iconPath': '/assets/img/packs/sport.svg'
+                'name': 'Химия 4',
+                'iconPath': '/assets/img/packs/cell.svg'
             },
             {
-                'name': 'Английский язык',
-                'iconPath': '/assets/img/packs/english.svg'
+                'name': 'Химия 5',
+                'iconPath': '/assets/img/packs/cells.svg'
             },
             {
-                'name': 'Информатика',
-                'iconPath': '/assets/img/packs/informatics.svg'
+                'name': 'Химия 6',
+                'iconPath': '/assets/img/packs/cells-1.svg'
             },
             {
-                'name': 'Живопись',
-                'iconPath': '/assets/img/packs/art.svg'
+                'name': 'Химия 7',
+                'iconPath': '/assets/img/packs/chemical.svg'
             },
             {
-                'name': 'Экология',
-                'iconPath': '/assets/img/packs/ecology.svg'
+                'name': 'Химия 8',
+                'iconPath': '/assets/img/packs/chemicals.svg'
             },
             {
-                'name': 'Литература',
-                'iconPath': '/assets/img/packs/literature.svg'
+                'name': 'Химия 9',
+                'iconPath': '/assets/img/packs/chemicals-1.svg'
             },
             {
-                'name': 'Биология',
-                'iconPath': '/assets/img/packs/biology.svg'
+                'name': 'Химия 10',
+                'iconPath': '/assets/img/packs/chemirtstry.svg'
             }
         ];
     }

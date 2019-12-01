@@ -9,49 +9,49 @@ app.use(express.static(path.resolve(__dirname, '..', 'public')));
 
 const leaders = [
     {
-        name: 'Алексей',
+        name: 'Аслан',
         win: 20,
         lost: 0,
         playingTime: 100
     },
     {
-        name: 'Джахонгир',
+        name: 'Салима',
         win: 15,
         lost: 5,
         playingTime: 60
     },
     {
-        name: 'Максим',
+        name: 'Нурсултан',
         win: 7,
         lost: 1,
         playingTime: 20
     },
     {
-        name: 'Максим',
+        name: 'Алибек',
         win: 6,
         lost: 2,
         playingTime: 32
     },
     {
-        name: 'Иван',
+        name: 'Тельман',
         win: 6,
         lost: 2,
         playingTime: 32
     },
     {
-        name: 'Мартин',
+        name: 'Райымбек',
         win: 6,
         lost: 2,
         playingTime: 65
     },
     {
-        name: 'Миша',
+        name: 'Зара',
         win: 4,
         lost: 9,
         playingTime: 320
     },
     {
-        name: 'Влад',
+        name: 'Айсауле',
         win: 8,
         lost: 1,
         playingTime: 23

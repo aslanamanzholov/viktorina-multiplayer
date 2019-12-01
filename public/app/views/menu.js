@@ -16,7 +16,7 @@ export class MenuView extends BaseView {
                     href: 'profile',
                     dataHref: 'profile',
                     customClasses: 'title title_subtitle',
-                    text: 'Profile',
+                    text: 'Профиль',
                     icon: {
                         customClasses: 'md-24 md-inherit',
                         name: 'account_circle'
@@ -28,7 +28,7 @@ export class MenuView extends BaseView {
                     href: 'logout',
                     dataHref: 'logout',
                     customClasses: 'title title_subtitle',
-                    text: 'Log Out',
+                    text: 'Выйти',
                     icon: {
                         customClasses: 'md-24 md-inherit',
                         name: 'arrow_forward'
@@ -40,7 +40,7 @@ export class MenuView extends BaseView {
                     href: 'login',
                     dataHref: 'login',
                     customClasses: 'title title_subtitle',
-                    text: 'Log In',
+                    text: 'Войти',
                     icon: {
                         customClasses: 'md-24 md-inherit',
                         name: 'exit_to_app'
@@ -52,7 +52,7 @@ export class MenuView extends BaseView {
                     href: 'signup',
                     dataHref: 'signup',
                     customClasses: 'title title_subtitle',
-                    text: 'Sign Up',
+                    text: 'Зарегестрироваться',
                     icon: {
                         customClasses: 'md-24 md-inherit',
                         name: 'person_add'
@@ -64,7 +64,7 @@ export class MenuView extends BaseView {
                     href: 'leaders',
                     dataHref: 'leaders',
                     customClasses: 'title title_subtitle',
-                    text: 'Leaderboard',
+                    text: 'Лидеры',
                     icon: {
                         customClasses: 'md-24 md-inherit',
                         name: 'poll'
@@ -76,7 +76,7 @@ export class MenuView extends BaseView {
                     href: 'about',
                     dataHref: 'about',
                     customClasses: 'title title_subtitle',
-                    text: 'About',
+                    text: 'О игре',
                     icon: {
                         customClasses: 'md-24 md-inherit',
                         name: 'info'
@@ -88,7 +88,7 @@ export class MenuView extends BaseView {
                     href: 'chat',
                     dataHref: 'chat',
                     customClasses: 'title title_subtitle',
-                    text: 'Chat',
+                    text: 'Чат',
                     icon: {
                         customClasses: 'md-24 md-inherit',
                         name: 'chat_bubble'

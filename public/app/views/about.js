@@ -16,7 +16,7 @@ export class AboutView extends BaseView {
             {
                 name: 'Салима Адамбековна',
                 position: 'PHD',
-                avatarPath: '/assets/img/mentor.jpg'
+                avatarPath: ''
             },
         ];
         this._screens = [];
